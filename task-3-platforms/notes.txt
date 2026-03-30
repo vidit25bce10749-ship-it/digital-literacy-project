@@ -1,0 +1,15 @@
+Task: Platforms & Collaboration
+
+Overview:
+- Worked with Google Forms and Google Sheets to create and analyze a quiz.
+
+What I Did:
+- Created a Digital Literacy Awareness Quiz with multiple-choice and short-answer questions.
+- Collected responses from users.
+- Viewed and analyzed responses using Google Sheets.
+
+Learning & Reflection:
+- Learned how to create online forms for surveys and quizzes.
+- Understood how responses are automatically stored and organized.
+- Gained practical knowledge of data collection and analysis.
+- This task showed how digital tools can be useful in academics and group work.
